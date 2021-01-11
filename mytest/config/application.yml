@@ -1,0 +1,7 @@
+quarkus:
+  http:
+    port: 18080
+  log:
+    category:
+      "org.acme.getting.started":
+        level: TRACE
